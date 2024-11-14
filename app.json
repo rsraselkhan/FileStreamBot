@@ -15,25 +15,25 @@
       "value": "True"
     },
     "API_ID": {
-      "description": "Get this value from https://my.telegram.org"
+      "description": "20059313"
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org"
+      "description": "6e08481e12fc7956b9b4786c256ca80a"
     },
     "BOT_TOKEN": {
-      "description": "Get this value from @BotFather"
+      "description": "7687017908:AAFX8mjLWgWhdwgxwsL3Oh3XZUuaZOE3gFU"
     },
     "FLOG_CHANNEL": {
-      "description": "ID of Channel Where store files sent by users. Read the readme for more info about this var"
+      "description": "-1002424792604"
     },
     "ULOG_CHANNEL": {
-      "description": "ID of Channel Where store New Users data. Read the readme for more info about this var"
+      "description": "-1002424792604"
     },
     "OWNER_ID": {
-      "description": "Your Telegram User ID as Owner"
+      "description": "6966969676"
     },
     "DATABASE_URL": {
-      "description": "MongoDB URI for saving User Data and Files List created by user."
+      "description": "mongodb+srv://technoraselofficial:XHJNtFZ6aIFw1350@cluster0.bthhx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     },
     "AUTH_USERS": {
       "description": "Put IDs of Auth Usrs where bot will work. You can add multiple IDs & separate with Space.",
